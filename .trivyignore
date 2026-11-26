@@ -1,0 +1,4 @@
+# AWS-0011: WAF adds recurring costs for this small, static demo; reassess for production.
+AWS-0011
+# AWS-0132: SSE-S3 is intentional for public site content; a customer-managed KMS key adds cost and key administration.
+AWS-0132
